@@ -1,1 +1,3 @@
-# web-game-template
+# WebG-template
+
+Заготовка будущей онлайн игры. Для учеников.
