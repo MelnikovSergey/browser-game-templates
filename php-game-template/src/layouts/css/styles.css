@@ -25,6 +25,10 @@ body {
 	text-align: center;
 }
 
+.top {
+	margin-bottom: 12px;
+}
+
 .line {
 	color: #3683c7;
 	font-weight: 700;
